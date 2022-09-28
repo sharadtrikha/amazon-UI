@@ -1,1 +1,4 @@
-dummy code
+function dummmy() {
+
+console.log("dummy");
+}
